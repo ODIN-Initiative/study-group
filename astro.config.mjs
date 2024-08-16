@@ -28,9 +28,3 @@ export default defineConfig({
 		}),
 	],
 });
-
-
-
-export default defineConfig({
-
-})
