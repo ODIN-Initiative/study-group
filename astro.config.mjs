@@ -29,6 +29,6 @@ export default defineConfig({
 import { defineConfig } from 'astro/config'
 
 export default defineConfig({
-  site: 'https://ODIN-Initiative.github.io',
+  site: 'https://odin-initiative.github.io',
   base: '/study-group',
 })
