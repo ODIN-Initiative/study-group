@@ -1,8 +1,11 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
+
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://odin-initiative.github.io',
+	base: '/study-group',
 	integrations: [
 		starlight({
 			title: 'ODIN Study Group',
@@ -26,9 +29,8 @@ export default defineConfig({
 	],
 });
 
-import { defineConfig } from 'astro/config'
+
 
 export default defineConfig({
-  site: 'https://odin-initiative.github.io',
-  base: '/study-group',
+
 })
