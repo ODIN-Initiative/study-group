@@ -11,6 +11,8 @@ export default defineConfig({
 			title: 'ODIN Study Group',
 			social: {
 				github: 'https://github.com/ODIN-Initiative',
+				twitter: 'https://x.com/odininitiative',
+				youtube: 'https://www.youtube.com/@odininitiative'
 			},
 			sidebar: [
 				{
