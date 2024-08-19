@@ -1,6 +1,8 @@
 ---
 title: What is ODIN?
 description: Explainer for ODIN and connection to S3
+sidebar:
+  order: 1
 ---
 
 <!-- # **What is ODIN?** -->
