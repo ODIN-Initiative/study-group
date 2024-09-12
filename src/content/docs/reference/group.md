@@ -9,6 +9,8 @@ description: About the Study group and how to participate
 
 The ODIN S3 Study Group meets every Monday to dive deep into the principles and patterns of Sociocracy 3.0 (S3). While we occasionally take breaks, our regular meetings are designed to be a consistent space for learning, discussion, and collaboration.
 
+Here is the [ODIN community calendar](https://calendar.google.com/calendar/u/0/embed?src=odinsharedcalendar@gmail.com&ctz=America/New_York)
+
 Each session begins with a brief check-in, allowing participants to connect and share any relevant updates. After the check-in, we move directly into the main focus of the meeting: a presentation by one of our researchers.
 
 ## What Participants Can Expect to Learn and Do

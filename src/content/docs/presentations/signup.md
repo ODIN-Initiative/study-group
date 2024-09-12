@@ -17,7 +17,7 @@ If you’re interested in presenting, we encourage you to reach out during our T
 
 ## Proposed Guidelines for Our Presentations
 
-To ensure our presentations are consistent and impactful, we’ve established a few key guidelines:
+To ensure our presentations are consistent and impactful, we’ve established a few key guidelines.
 
 30-60 Second Video Abstract: Start with a brief video abstract summarizing the core message of your presentation. This can also be adapted into textual summaries for sharing across different media.
 
