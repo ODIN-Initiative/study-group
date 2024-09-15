@@ -11,6 +11,8 @@ The ODIN S3 Study Group meets every Monday to dive deep into the principles and 
 
 Here is the [ODIN community calendar](https://calendar.google.com/calendar/u/0/embed?src=odinsharedcalendar@gmail.com&ctz=America/New_York)
 
+<!-- <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=UTC&bgcolor=%23B39DDB&title=ODIN%20Calendar&showCalendars=0&src=b2RpbnNoYXJlZGNhbGVuZGFyQGdtYWlsLmNvbQ&color=%23F09300" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
+
 Each session begins with a brief check-in, allowing participants to connect and share any relevant updates. After the check-in, we move directly into the main focus of the meeting: a presentation by one of our researchers.
 
 ## What Participants Can Expect to Learn and Do
