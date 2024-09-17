@@ -1,7 +1,12 @@
+---
+import { url } from 'astro:url';
+---
+
 <!-- src/layouts/Layout.astro -->
 <html>
   <head>
     <title>{Astro.props.title}</title>
+    <link rel="icon" href={url('/favicon.ico')} />
   </head>
   <body>
     <header>
