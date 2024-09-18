@@ -20,10 +20,6 @@ export default defineConfig({
 					autogenerate: { directory: 'presentations' },
 				},
 				{
-					label: 'Links',
-					autogenerate: { directory: 'links' },
-				},
-				{
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
 				},

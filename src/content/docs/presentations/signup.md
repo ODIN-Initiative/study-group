@@ -19,10 +19,27 @@ If you’re interested in presenting, we encourage you to reach out during our T
 
 To ensure our presentations are consistent and impactful, we’ve established a few key guidelines.
 
-30-60 Second Video Abstract: Start with a brief video abstract summarizing the core message of your presentation. This can also be adapted into textual summaries for sharing across different media.
+<details>
+<summary>30-60 Second Video Abstract:</summary>
+ Start with a brief video abstract summarizing the core message of your presentation. This can also be adapted into textual summaries for sharing across different media.
+</details>
 
-Orientation (1-2 Minutes): Begin by orienting the audience on where the pattern fits within the broader S3 framework. Explain how it connects with other collaboration patterns, where it can be found in the S3 site, and how it relates to our Collaborative Sparks website.
+<details>
+<summary>Orientation (1-2 Minutes):</summary>
+  Begin by orienting the audience on where the pattern fits within the broader S3 framework. Explain how it connects with other collaboration patterns, where it can be found in the S3 site, and how it relates to our Collaborative Sparks website.
+</details>
 
-Core Content in 5-10 Minutes: Aim to convey 80% of the presentation’s overall meaning within the first 7 minutes give or take. This approach leaves ample time for discussion. If you have additional details or fine points, consider saving them for the discussion phase, where they can add significant value.
 
-Facilitation and Iteration: It’s perfectly acceptable to focus on facilitating a conversation rather than delivering a traditional presentation. Gather insights from the discussion to refine and potentially develop a version 2 of your presentation.
+<details>
+<summary>Core Content in 5-10 Minutes:</summary>
+  Aim to convey 80% of the presentation’s overall meaning within the first 7 minutes give or take. This approach leaves ample time for discussion. If you have additional details or fine points, consider saving them for the discussion phase, where they can add significant value.
+</details>
+
+
+<details>
+<summary>Facilitation and Iteration:</summary>
+ It’s perfectly acceptable to focus on facilitating a conversation rather than delivering a traditional presentation. Gather insights from the discussion to refine and potentially develop a version 2 of your presentation.
+</details>
+
+
+ 
