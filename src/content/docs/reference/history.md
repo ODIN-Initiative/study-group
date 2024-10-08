@@ -1,6 +1,8 @@
 ---
 title: Orientation & History
 description: Background and history of the Study group and S3
+sidebar:
+  order: 4
 ---
 
 

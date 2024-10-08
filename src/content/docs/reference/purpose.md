@@ -1,6 +1,8 @@
 ---
 title: Purpose and Goals of the Group
 description: Background reference for the Study Group
+sidebar:
+  order: 2
 ---
 
 <!--# Purpose and Goals of the Group-->

@@ -1,6 +1,8 @@
 ---
 title: Study Group Structure
 description: About the Study group and how to participate 
+sidebar:
+  order: 3
 ---
 
 <!-- # **Study Group Structure** -->
