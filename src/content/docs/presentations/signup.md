@@ -3,6 +3,8 @@ title: How to sign up to present
 description: A guide to present
 ---
 
+![The S3 pattern map](../../../assets/pattern-map-72dpi.png)
+*The patterns of Sociocracy 3.0*
 # Guidelines for Participants Who Want to Present or Lead a Session
 
 Presenting at the ODIN S3 Study Group is a straightforward and rewarding experience. We encourage all members of the ODIN community to take part in our collaborative learning journey by leading a session on one of the many patterns within the Sociocracy 3.0 (S3) framework.  
@@ -40,6 +42,3 @@ To ensure our presentations are consistent and impactful, we’ve established a 
 <summary>Facilitation and Iteration:</summary>
  It’s perfectly acceptable to focus on facilitating a conversation rather than delivering a traditional presentation. Gather insights from the discussion to refine and potentially develop a version 2 of your presentation.
 </details>
-
-
- 
